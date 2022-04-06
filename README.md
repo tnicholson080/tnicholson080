@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 - tnicholson080@gmail.com
 - 724-470-0655
-- Feel free to reach out about collaborating on something, preferabbly game oriented, or just to chat about code in general. 
+- Feel free to reach out about collaborating on something, preferably game oriented, or just to chat about code in general. 
 
 <!---
 tnicholson080/tnicholson080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
